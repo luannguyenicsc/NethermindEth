@@ -4,7 +4,14 @@
       "authorityRound": {
         "params": {
           "stepDuration": "5",
-          "blockReward": "0xb1a2bc2ec500000"
+          "blockReward": "0xb1a2bc2ec500000",
+          "validators": {
+            "multi": {
+              "0": {
+                "list": ["0xa3EDCC079AB734674e9DAaB7016dd90fD9d7d859"]
+              }
+            }
+          }
         }
       }
     },
